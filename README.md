@@ -1,5 +1,5 @@
 # Loan_Eligibility_Prediction
-Automating the eligibility verification process based on customer information
+Automating the eligibility verification process for home loans based on customer information
 
 Tested and tuned regression, random forest, XGBoost,
 SGD, linear SVC, and neural network models.
